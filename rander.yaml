@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: todo-backend
+    runtime: dotnet
+    plan: free
+    buildCommand: dotnet publish -c Release
+    startCommand: dotnet TodoApp.dll
