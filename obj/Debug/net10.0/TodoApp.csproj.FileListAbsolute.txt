@@ -322,3 +322,4 @@ C:\Users\Acer\Desktop\Me-v2\web_stuffs\ASP.NET Core\TodoApp\obj\Debug\net10.0\re
 C:\Users\Acer\Desktop\Me-v2\web_stuffs\ASP.NET Core\TodoApp\obj\Debug\net10.0\TodoApp.pdb
 C:\Users\Acer\Desktop\Me-v2\web_stuffs\ASP.NET Core\TodoApp\obj\Debug\net10.0\TodoApp.genruntimeconfig.cache
 C:\Users\Acer\Desktop\Me-v2\web_stuffs\ASP.NET Core\TodoApp\obj\Debug\net10.0\ref\TodoApp.dll
+C:\Users\Acer\Desktop\Me-v2\web_stuffs\ASP.NET Core\TodoApp\obj\Debug\net10.0\TodoApp.sourcelink.json
