@@ -51,4 +51,7 @@ app.UseAuthorization();
 app.UseCors("AllowFrontend");
 app.MapControllers();
 
+// Health check endpoint
+app.MapGet("/health", () => Results.Ok("Healthy"));
+
 app.Run();
